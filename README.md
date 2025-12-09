@@ -84,4 +84,6 @@ A fully functional **Vehicle Rental Management System** built with Node.js, Expr
    ```bash
    git clone https://github.com/your-username/vehicle-rental-system.git
    cd vehicle-rental-system
+   npm install
+   npm run dev
    ```
